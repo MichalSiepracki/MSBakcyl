@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -pedantic   CMakeFiles/Listy_od_M.dir/main.cpp.o CMakeFiles/source_objects_lib.dir/Combat/Source/List.cpp.o  -o bin/Listy_od_M 

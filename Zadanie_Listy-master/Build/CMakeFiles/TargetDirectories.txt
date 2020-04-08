@@ -1,0 +1,10 @@
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/CMakeFiles/rebuild_cache.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/CMakeFiles/edit_cache.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/CMakeFiles/Listy_od_M_UT.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/CMakeFiles/Listy_od_M.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/CMakeFiles/googletest.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/CMakeFiles/source_objects_lib.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/Combat/Source/CMakeFiles/rebuild_cache.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/Combat/Source/CMakeFiles/edit_cache.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/Combat/Test/CMakeFiles/rebuild_cache.dir
+/home/oem/git_work/MSBakcyl/Zadanie_Listy-master/Build/Combat/Test/CMakeFiles/edit_cache.dir
